@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titlescolor">#ff000000</color>
+    <color name="textcolor">#bf000000</color>
+    <color name="darkholder">#d0000000</color>
+    <color name="itemsholder">#b0ffffff</color>
+</resources>
+
